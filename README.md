@@ -7,4 +7,4 @@ I <3 simple features.
 
 ### Author
 
-  *. Phil Donovan
+  * Phil Donovan
