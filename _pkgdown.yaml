@@ -1,0 +1,7 @@
+navbar:
+  right:
+    - icon: fa-github
+      href: https://github.com/phildonovan/donovanr
+    - text: spatialanalytics.co.nz
+      href: https://spatialanalytics.co.nz
+

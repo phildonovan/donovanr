@@ -470,3 +470,12 @@ thead, tfoot, tr:nth-child(even) {
 
 }
 
+#navbar a {
+    text-decoration: none;
+    border-bottom: none;
+}
+
+.nav-pills > li.active > a{
+  color: #000;
+  background-color: #eee;
+}
