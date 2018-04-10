@@ -477,5 +477,10 @@ thead, tfoot, tr:nth-child(even) {
 
 .nav-pills > li.active > a{
   color: #000;
-  background-color: #eee;
+  background-color: #ffffff;
+}
+
+.nav-pills > li.active > a:focus, .nav-pills > li.active > a:hover {
+  color: #000;
+  background-color: #ffffff;
 }
